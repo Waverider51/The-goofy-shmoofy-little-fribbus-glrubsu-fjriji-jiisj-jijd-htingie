@@ -1,0 +1,1 @@
+This plugin annihilates the map, turning it into an unreadable mess. I hope you're happy. This may break other plugins, missions and possibly the laws of physics, use at your own risk.
